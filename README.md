@@ -15,16 +15,16 @@ This project consists of a WhatsApp chatbot implemented using `whatsapp-web.js` 
 
 ## Installation
 
-1. Setting up the Backend (Flask API):
+## 1. Setting up the Backend (Flask API):
    cd api
    flask run
    
-2. Setting up the WhatsApp Chatbot
+## 2. Setting up the WhatsApp Chatbot
    cd api/whatsapp-chatbot
    npm i nodemon
    nodemon bot.js
    
-3. Setting up the React Frontend
+## 3. Setting up the React Frontend
    cd front
    npm install
    npm run dev
